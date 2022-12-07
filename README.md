@@ -1,4 +1,4 @@
-<h1> align="center"> Dynamic Clock  </h1>
+<h1 align="center"> Dynamic Clock  </h1>
 
 <p align="center">
 Projeto desenvolvido para consolidar e aplicar conhecimentos de aulas.
